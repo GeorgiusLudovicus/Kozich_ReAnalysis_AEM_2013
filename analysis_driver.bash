@@ -45,3 +45,6 @@ code/mothur/mothur code/get_shared_otus.batch
 
 #Run data to plot NMDS ordination
 code/mothur/mothur code/get_nmds_data.batch
+
+#Calculkate the number of OTUS per sample when rarefying to 3000 sequences per sample
+code/mothur/mothur code/get_sobs_data.batch
